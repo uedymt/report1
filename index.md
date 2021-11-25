@@ -3,11 +3,10 @@
 
 <!--comment test-->
 
-![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
+Shooting date：2020/
+location：Tochigi - Utsunomiya
 
-
-
-![テスト](https://github.com/uedymt/report_1/blob/gh-pages/DSC04425.JPG)
+![game center](https://github.com/uedymt/report_1/blob/gh-pages/DSC04425.JPG)
 
 You can use the [editor on GitHub](https://github.com/uedymt/report_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
