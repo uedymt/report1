@@ -3,11 +3,8 @@
 
 <!--comment test-->
 
-![game center](https://github.com/uedymt/report_1/blob/gh-pages/DSC04425.JPG)
-
-
 # 白山公園の桜
-![白山公園の桜]()
+![白山公園の桜](https://github.com/uedymt/report_1/blob/gh-pages/IMG_5566.JPG)
 - Shooting date：2021/03/27 <br>
 - location：Niigata - Hakusan park<br>
 >Property
