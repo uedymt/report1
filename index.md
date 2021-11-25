@@ -14,7 +14,7 @@
 - ISO：100
 
 # 神戸ポートタワー
-！[神戸ポートタワー](IMG_6143.JPG)
+![神戸ポートタワー](IMG_6143.JPG)
 - Shooting date：2021/09/10<br>
 - location：Kobe - Kobe Port Tower<br>
 >Property
