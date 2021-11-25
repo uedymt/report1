@@ -4,7 +4,7 @@
 <!--comment test-->
 
 # 白山公園の桜
-![白山公園の桜](https://github.com/uedymt/report_1/blob/gh-pages/IMG_5566.JPG)
+![白山公園の桜](IMG_5566.JPG)
 - Shooting date：2021/03/27 <br>
 - location：Niigata - Hakusan park<br>
 >Property
@@ -14,8 +14,7 @@
 - ISO：100
 
 # 神戸ポートタワー
-![神戸ポートタワー](https://github.com/uedymt/report_1/blob/gh-pages/IMG_6143.JPG)
-![神戸ポートタワー](https://github.com/uedymt/report_1/blob/gh-pages/IMG_6143.JPG)
+！[神戸ポートタワー](IMG_6143.JPG)
 - Shooting date：2021/09/10<br>
 - location：Kobe - Kobe Port Tower<br>
 >Property
@@ -26,8 +25,7 @@
 
 
 # 宍道湖の夕日
-![](DSC04935.JPG)
-![宍道湖の夕日](https://github.com/uedymt/report_1/blob/gh-pages/DSC04935.JPG)
+![宍道湖の夕日](DSC04935.JPG)
 - Shooting date：2021/09/09
 - location：Shimane - Shinji　Lake 
 >Property
