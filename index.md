@@ -10,6 +10,35 @@ location：Tochigi - Utsunomiya
 
 You can use the [editor on GitHub](https://github.com/uedymt/report_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+#白山公園の桜
+Shooting date：2021/03/27 <br>
+location：Niigata - Hakusan park
+Property
+Lens：131mm(EF-S55-250mm f4-5.6 IS Ⅱ)
+Shutter Speed：1/250
+F-number：8.0
+ISO：100
+
+#神戸ポートタワー
+Shooting date：2021/09/10
+location：Kobe - Kobe Port Tower
+Property
+Lens：160mm(EF-S55-250mm f4-5.6 IS Ⅱ)
+Shutter Speed：1/400
+F-number：9.0
+ISO：100
+
+
+#宍道湖の夕日
+Shooting date：2021/09/09
+location：Shimane - Shinji　Lake 
+Property
+Lens：28mm(28mm-70mm f2.8 DG DN)
+Shutter Speed：1/400
+F-number：9.0
+ISO：100
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
