@@ -15,6 +15,7 @@
 
 # 神戸ポートタワー
 ![神戸ポートタワー](https://github.com/uedymt/report_1/blob/gh-pages/IMG_6143.JPG)
+![神戸ポートタワー](https://github.com/uedymt/report_1/blob/gh-pages/IMG_6143.JPG)
 - Shooting date：2021/09/10<br>
 - location：Kobe - Kobe Port Tower<br>
 >Property
@@ -25,6 +26,7 @@
 
 
 # 宍道湖の夕日
+![](DSC04935.JPG)
 ![宍道湖の夕日](https://github.com/uedymt/report_1/blob/gh-pages/DSC04935.JPG)
 - Shooting date：2021/09/09
 - location：Shimane - Shinji　Lake 
